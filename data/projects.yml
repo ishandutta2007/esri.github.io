@@ -10,6 +10,11 @@ categories:
         url: https://esri.github.io/hiking-trails-app/
         displayLang: JavaScript
         searchLang: javascript
+      - title: MapLibre ArcGIS
+        description: MapLibre GL JS plugin for ArcGIS data services, basemaps, and more.
+        url: https://github.com/Esri/maplibre-arcgis
+        displayLang: JavaScript
+        searchLang: javascript
       - title: Calcite Design System
         description: Design and development resources for creating beautiful, easy to use, cohesive experiences across apps with minimal effort
         url: https://github.com/Esri/calcite-design-system
