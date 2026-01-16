@@ -178,7 +178,7 @@ categories:
       - title: ArcGIS Maps SDK for Swift toolkit
         description: The ArcGIS Maps SDK for Swift toolkit contains components that will simplify your iOS app development.
         url: //github.com/Esri/arcgis-maps-sdk-swift-toolkit
-        displayLang: swift
+        displayLang: Swift
         searchLang: swift
         stars: 36
       - title: ArcGIS Maps SDK for Kotlin Toolkit
